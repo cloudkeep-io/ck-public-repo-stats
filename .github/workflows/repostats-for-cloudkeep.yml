@@ -8,7 +8,7 @@ on:
 
 jobs:
   run-ghrs-with-matrix:
-    name: repostats-for-nice-projects
+    name: repostats-for-ck-public-projects
     runs-on: ubuntu-latest
     strategy:
       matrix:
