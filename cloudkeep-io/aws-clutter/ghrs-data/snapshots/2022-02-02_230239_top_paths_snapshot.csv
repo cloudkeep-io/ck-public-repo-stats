@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cloudkeep-io/aws-clutter,12,9
+/cloudkeep-io/aws-clutter/blob/main/aws_clutter/data/ebs_pricing.json,3,2
+/cloudkeep-io/aws-clutter/tree/main/aws_clutter,3,2
+/cloudkeep-io/aws-clutter/blob/main/aws_clutter/cli.py,2,2
+/cloudkeep-io/aws-clutter/blob/main/terraform/main.tf,2,2
+/cloudkeep-io/aws-clutter/tree/main/terraform,2,2
+/cloudkeep-io/aws-clutter/tree/main/terraform-test,2,2
+/cloudkeep-io/aws-clutter/tree/main/test-envs,2,2
+/cloudkeep-io/aws-clutter/blob/7f311410bcc7adf06c7e8bcc12df93e905640842/aws_clutter/cli.py,2,1
+/cloudkeep-io/aws-clutter/tree/main/tests,2,1
