@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cloudkeep-io/aws-clutter,53,23
+/cloudkeep-io/aws-clutter/graphs/traffic,10,1
+/cloudkeep-io/aws-clutter/tree/main/aws_clutter,7,2
+/cloudkeep-io/aws-clutter/pulse,6,2
+/cloudkeep-io/aws-clutter/blob/main/terraform/README.md,5,2
+/cloudkeep-io/aws-clutter/blob/main/aws_clutter/cli.py,3,2
+/cloudkeep-io/aws-clutter/blob/main/aws_clutter/data/ebs_pricing.json,3,2
+/cloudkeep-io/aws-clutter/tree/main/terraform,3,2
+/cloudkeep-io/aws-clutter/tree/main/tests,3,2
+/cloudkeep-io/aws-clutter/pulls,3,1
