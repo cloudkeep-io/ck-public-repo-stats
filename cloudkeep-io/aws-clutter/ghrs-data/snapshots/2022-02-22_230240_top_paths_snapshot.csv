@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cloudkeep-io/aws-clutter,47,29
+/cloudkeep-io/aws-clutter/tree/main/aws_clutter,9,6
+/cloudkeep-io/aws-clutter/blob/main/aws_clutter/cli.py,6,5
+/cloudkeep-io/aws-clutter/tree/main/aws_clutter/clutter,3,3
+/cloudkeep-io/aws-clutter/blob/main/poetry.lock,3,2
+/cloudkeep-io/aws-clutter/blob/main/aws_clutter/clutter/ulbs.py,2,2
+/cloudkeep-io/aws-clutter/blob/main/pyproject.toml,2,1
+/cloudkeep-io/aws-clutter/tree/main/terraform-test,2,1
+/cloudkeep-io/aws-clutter/blob/main/app.py,1,1
+/cloudkeep-io/aws-clutter/blob/main/aws_clutter/clutter/debs.py,1,1
