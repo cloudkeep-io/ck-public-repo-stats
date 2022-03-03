@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cloudkeep-io/aws-clutter,22,15
+/cloudkeep-io/aws-clutter/tree/main/aws_clutter,4,2
+/cloudkeep-io/aws-clutter/blob/main/aws_clutter/clutter/debs.py,4,1
+/cloudkeep-io/aws-clutter/tree/main/aws_clutter/data,3,2
+/cloudkeep-io/aws-clutter/tree/main/aws_clutter/clutter,3,1
+/cloudkeep-io/aws-clutter/blob/main/aws_clutter/tools.py,2,2
+/cloudkeep-io/aws-clutter/tree/main/terraform,2,2
+/cloudkeep-io/aws-clutter/blob/main/terraform/main.tf,2,1
+/cloudkeep-io/aws-clutter/blob/main/terraform/outputs.tf,2,1
+/cloudkeep-io/aws-clutter/blob/7f5bf1f6527169ac9590c2910a1fd63484d681a7/aws_clutter/clutter/debs.py,1,1
