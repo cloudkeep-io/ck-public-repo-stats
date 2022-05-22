@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/cloudkeep-io/aws-clutter,3,2
+/cloudkeep-io/aws-clutter/tree/main/aws_clutter,2,1
+/cloudkeep-io/aws-clutter/tree/main/aws_clutter/data,2,1
+/cloudkeep-io/aws-clutter/blob/main/aws_clutter/data/elb_pricing.json,1,1
+/cloudkeep-io/aws-clutter/blob/main/test-envs/ulbs/lb.tf,1,1
+/cloudkeep-io/aws-clutter/tree/main/terraform,1,1
+/cloudkeep-io/aws-clutter/tree/main/terraform-test,1,1
+/cloudkeep-io/aws-clutter/tree/main/test-envs,1,1
+/cloudkeep-io/aws-clutter/tree/main/test-envs/ulbs,1,1
