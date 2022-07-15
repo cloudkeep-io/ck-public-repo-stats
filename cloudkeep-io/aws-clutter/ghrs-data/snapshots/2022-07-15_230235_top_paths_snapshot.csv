@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/cloudkeep-io/aws-clutter,2,2
+/cloudkeep-io/aws-clutter/tree/main/aws_clutter/data,2,1
+/cloudkeep-io/aws-clutter/blob/0e656d0c29ce017b7dd98886f394c19e841ce137/test-envs/debs/ebs.tf,1,1
+/cloudkeep-io/aws-clutter/blob/main/aws_clutter/clutter/ulbs.py,1,1
+/cloudkeep-io/aws-clutter/blob/main/aws_clutter/data/ebs_pricing.json,1,1
+/cloudkeep-io/aws-clutter/tree/main/aws_clutter,1,1
+/cloudkeep-io/aws-clutter/tree/main/aws_clutter/clutter,1,1
