@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/cloudkeep-io/ebs-pricing,8,4
+/cloudkeep-io/ebs-pricing/blob/main/docs/ebs_pricing.json,6,2
+/cloudkeep-io/ebs-pricing/blob/main/get_ebs_pricing.py,2,1
+/cloudkeep-io/ebs-pricing/tree/main/docs,2,1
+/cloudkeep-io/ebs-pricing/tree/main/.github/workflows,2,1
+/cloudkeep-io/ebs-pricing/blob/main/docs/last_updated,1,1
+/cloudkeep-io/ebs-pricing/blob/main/.github/workflows/update.yml,1,1
+/cloudkeep-io/ebs-pricing/blob/main/Notes.md,1,1
+/cloudkeep-io/ebs-pricing/blob/main/tools.py,1,1
