@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cloudkeep-io/ebs-pricing,10,4
+/cloudkeep-io/ebs-pricing/blob/main/get_ebs_pricing.py,5,2
+/cloudkeep-io/ebs-pricing/tree/main,5,2
+/cloudkeep-io/ebs-pricing/blob/main/pyproject.toml,2,1
+/cloudkeep-io/ebs-pricing/blob/d76ed2762d0a795a66285222321da0bb0aa801c3/tools.py,1,1
+/cloudkeep-io/ebs-pricing/blob/main/docs/ebs_pricing.json,1,1
+/cloudkeep-io/ebs-pricing/blob/main/Makefile,1,1
+/cloudkeep-io/ebs-pricing/blob/main/poetry.lock,1,1
