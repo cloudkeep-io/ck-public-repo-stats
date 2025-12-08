@@ -1,5 +1,5 @@
 % Statistics for cloudkeep-io/ebs-pricing
-% Generated for [cloudkeep-io/ebs-pricing](https://github.com/cloudkeep-io/ebs-pricing) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-12-07 23:01 UTC.
+% Generated for [cloudkeep-io/ebs-pricing](https://github.com/cloudkeep-io/ebs-pricing) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-12-08 23:01 UTC.
 
 
 ## Views
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `sim.amazon.com`, 04: `sta
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/blob/main/get_ebs_pricing.py`, 03: `/blob/main/docs/ebs_pricing.json`, 04: `/tree/main/docs`, 05: `/blob/main/tools.py`, 06: `/tree/main`, 07: `/blob/d76ed2762d0a795a66285222321da0bb0aa801c3/tools.py`, 08: `/deployments/github-pages`, 09: `/actions/runs/1656472040`, 10: `/edit/main/README.md`, 11: `/tree/main/.github/workflows`, 12: `/blob/4ce391abcfda038452b688e107d27df1b5fea765/README.md`, 13: `/find/main`, 14: `/fork`, 15: `/actions/runs/1656886595`
+Top 15 paths: 01: `/`, 02: `/blob/main/get_ebs_pricing.py`, 03: `/blob/main/docs/ebs_pricing.json`, 04: `/tree/main/docs`, 05: `/blob/main/tools.py`, 06: `/tree/main`, 07: `/blob/d76ed2762d0a795a66285222321da0bb0aa801c3/tools.py`, 08: `/blob/main/LICENSE`, 09: `/actions/runs/1656465797`, 10: `/fork`, 11: `/commit/60eca636d384fb17f10a61c8e48a5d3f1eb7b100`, 12: `/find/main`, 13: `/actions`, 14: `/blob/main/docs/index.html`, 15: `/blob/main/Makefile`
 
 
 <script type="text/javascript">
